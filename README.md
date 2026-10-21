@@ -91,16 +91,23 @@ Currently focusing on:
 
 
 
+
+---
+
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/sakshimehetre-dev">
+<p align="left">
+  <a href="https://github.com/sakshi-mehetre">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sakshi-mehetre-077912268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ "Learning every day, coding every day, growing every day."
+### 💫 Thanks for visiting my profile!
 
-Thanks for visiting my profile! 😊
+*Learning • Building • Growing*
