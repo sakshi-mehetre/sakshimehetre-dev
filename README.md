@@ -127,6 +127,4 @@ Currently focusing on:
 
 
 
-### 💫 Thanks for visiting my profile!
 
-*Learning • Building • Growing*
