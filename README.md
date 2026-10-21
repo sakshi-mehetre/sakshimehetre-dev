@@ -1,6 +1,9 @@
+
 <p align="center">
-  <img src="profile-banner.png" width="100%" />
+  <img src="SM.png" width="100%" alt="Sakshi Mehetre GitHub Banner"/>
 </p>
+
+---
 
 # Hi there, I'm Sakshi Mehetre! 👋
 
