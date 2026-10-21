@@ -110,11 +110,21 @@ Currently focusing on:
 
 ---
 
-## 👀 Profile Visitors
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-mehetre&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  <b>Thanks for visiting my GitHub profile! 😊</b>
 </p>
+
+<p align="center">
+  <i>Learn • Code • Build • Grow</i>
+</p>
+
+<p align="center">
+  ⭐ Always learning, always improving!
+</p>
+
 
 
 ### 💫 Thanks for visiting my profile!
