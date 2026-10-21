@@ -1,6 +1,7 @@
 <p align="center">
   <img src="profile-banner.png" width="100%" />
 </p>
+
 # Hi there, I'm Sakshi Mehetre! 👋
 
 ### E&TC Engineering Student | Aspiring Software Developer
