@@ -63,14 +63,17 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student interested
 </p>
 
 
+
 ---
 
-
-## 📈 Contribution Activity
+## 📈 My GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8A2BE2/sakshimehetre-dev" alt="Sakshi's GitHub Contribution Graph" width="100%"/>
+  <a href="https://github.com/sakshimehetre-dev">
+    View my GitHub contribution activity
+  </a>
 </p>
+
 
 
 
