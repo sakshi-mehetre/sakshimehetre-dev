@@ -65,11 +65,13 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student interested
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshimehetre-dev&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/8A2BE2/sakshimehetre-dev" alt="Sakshi's GitHub Contribution Graph" width="100%"/>
 </p>
+
 
 
 
