@@ -52,8 +52,7 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student interested
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshimehetre-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshimehetre-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-mehetre&show_icons=true&theme=tokyonight"/>
 </p>
 
 ## 🔥 GitHub Streak
