@@ -65,13 +65,27 @@ Welcome to my GitHub profile! I'm an enthusiastic engineering student interested
 
 ---
 
-## 📈 My GitHub Contributions
 
-<p align="center">
-  <a href="https://github.com/sakshimehetre-dev">
-    View my GitHub contribution activity
-  </a>
-</p>
+---
+
+## 🌱 My Learning Journey
+
+Currently focusing on:
+
+- Learning C and C++ programming.
+- Exploring Java and Python.
+- Strengthening Data Structures and Algorithms.
+- Improving logical thinking and problem-solving skills.
+- Understanding software development concepts.
+
+## 🎯 My Goals
+
+- Build real-world programming projects.
+- Improve coding and problem-solving skills.
+- Learn new technologies.
+- Contribute to open-source projects.
+- Grow as a software developer.
+
 
 
 
